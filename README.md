@@ -9,7 +9,7 @@ Benchmarking Memory & Storage : This assignment is coded in C language.
 
 Blake3 is used for hash generation. The files related to c language from the official blake3 algorithm from git repo are copied to current repo.
 
-Referece : https://github.com/BLAKE3-team/BLAKE3
+Reference : https://github.com/BLAKE3-team/BLAKE3
 
 To execute build and run the program follow the below instructions.
 
